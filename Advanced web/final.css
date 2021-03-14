@@ -1,0 +1,58 @@
+ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+}
+    li{
+        display: inline-block;
+
+    }
+   .container{
+       width: 100%;
+       overflow: hidden; 
+       position: relative;
+       padding-top: 56.25%;
+   }   
+   ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: pink;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+ 
+  li a:hover {
+    background-color:#FAFAFA;
+  }
+   
+  
+
+.content {
+  text-align: center;
+  background-color:pink;
+  color:white;
+  font-size: 50px;
+  padding:200px;
+}
+
+.p1 {
+  font-family: 'Dancing Script', cursive; 
+}
+
+
+
+
+
